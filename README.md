@@ -5,9 +5,9 @@ A beginner Front-end Developer with strong UI/UX skills
 Contact me: edumfed@gmail.com
 
 **My education:**
-- BA degree in Design, Belarus State Academy of Arts - 2011
-- Hexlet - Front-end Developer Profession - 2023
-- WDI School - Web design - 2017
+BA degree in Design, Belarus State Academy of Arts - 2011
+Hexlet - Front-end Developer Profession - 2023
+WDI School - Web design - 2017
 
 - 🔭 I’m currently working on [rss-reader](https://frontend-project-11-8d0u853u4-anagran.vercel.app/)
 
