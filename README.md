@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://cv.hexlet.io/resumes/3058](https://cv.hexlet.io/resumes/3058)
 
-- ⚡ Fun fact **Eight years ago, I developed a method that enabled me to create vector illustrations almost automatically. To accomplish this, I had to rent six laptops, turning my room into something resembling an electrical station for three months. I felt like I was sleeping inside a transformer. This experience left a lasting impression on me, and it has inspired me to learn more about technologies and automation, especially in the upcoming era of AI.**
+- ⚡ Fun fact about me: Eight years ago, I developed a method that enabled me to create vector illustrations almost automatically. To accomplish this, I had to rent six laptops, turning my room into something resembling an electrical station for three months. I felt like I was sleeping inside a transformer. This experience left a lasting impression on me, and it has inspired me to learn more about technologies and automation, especially in the upcoming era of AI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
