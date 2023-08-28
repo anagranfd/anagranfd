@@ -2,9 +2,9 @@
 <h3 align="center">A beginner frontend developer with strong UI/UX skills</h3>
 
 **My education:**
-<p>BA degree in Design, Belarus State Academy of Arts - 2011</p>
 <p>Hexlet - Front-end Developer Profession - 2023</p>
 <p>WDI School - Web design - 2017</p>
+<p>BA degree in Design, Belarus State Academy of Arts - 2011</p>
 ---
 
 - 🔭 I’m currently working on [rss-reader](https://frontend-project-11-8d0u853u4-anagran.vercel.app/)
