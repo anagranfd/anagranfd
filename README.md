@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anagranfd](https://github.com/anagranfd)
 
-- 📫 How to reach me **edumfed@gmail.com**
+- 📫 How to reach me **multiworkin@gmail.com**
 
 - 📄 Know about my experiences [https://cv.hexlet.io/resumes/3058](https://cv.hexlet.io/resumes/3058)
 
